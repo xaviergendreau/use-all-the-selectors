@@ -1,3 +1,5 @@
+/*something*/
+
 body {
   background-color: #fdf6e3;
 }
@@ -26,13 +28,11 @@ nav ul {
   background-color: #b58900;
 }
 
-/**/
-
-div > .dfn > strong{
+div > .dfn > strong {
   color: black;
 }
 
-.dfn > strong{
+.dfn > strong {
   color: #fff;
 }
 
