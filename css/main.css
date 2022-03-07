@@ -9,3 +9,30 @@ header {
 footer {
   font-size: 1.5rem;
 }
+
+nav ul{
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+#contents {
+  color: #93a1a1;
+}
+
+#favs {
+  color: #93a1a1;
+}
+
+#facts {
+  color: #93a1a1;
+}
+/*nav ul li:nth-child(1) {
+  background-color: green;
+}*/
