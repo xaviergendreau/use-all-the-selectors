@@ -1,6 +1,8 @@
-/* something */
-
 html {
+  box-sizing: inherit;
+}
+
+body {
   background-color: #fdf6e3;
 }
 
